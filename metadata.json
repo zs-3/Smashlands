@@ -1,0 +1,6 @@
+{
+  "name": "TurboSmash Karts 3D",
+  "description": "Fast-paced 3D kart battle arena with 6 maps, 16 customizable karts, 18 driver skins, mystery weapon boxes, kill-streak celebrations, and 8-16 kart modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
